@@ -10,7 +10,7 @@ https://www.linkedin.com/in/matthew-jackson-b23757122/
 
 # Summary
 
-Emerging GIS analyst specializing in web mapping, geospatial research, and urban GIS, with a focus on mobility strategies. Utilizing an unique background in portfolio management and studies in geography and urban planning to build interpersonal relationships with clients and to find the best solutions for growing cities.
+>Emerging GIS analyst specializing in web mapping, geospatial research, and urban GIS, with a focus on mobility strategies. Utilizing an unique background in portfolio management and studies in geography and urban planning to build interpersonal relationships with clients and to find the best solutions for growing cities.
 
 # Work Experience
 
