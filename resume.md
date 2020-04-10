@@ -4,9 +4,15 @@
 
 mattj777@uw.edu
 
-https://mattj777.github.io/#
+[GitHub]
 
-https://www.linkedin.com/in/matthew-jackson-b23757122/
+[linkedin]
+
+[GitHub]: https://mattj777.github.io/#
+
+[linkedin]: https://www.linkedin.com/in/matthew-jackson-b23757122/
+
+
 
 # Summary
 
