@@ -1,5 +1,7 @@
 # Matthew Jackson
 
+![](img/profile.jpg)
+
 mattj777@uw.edu
 
 https://mattj777.github.io/#
